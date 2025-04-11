@@ -1,6 +1,6 @@
 Projet Tifosi - Base de données
 
-Ce repository contient les scripts SQL pour la base de données du restaurant Tifosi, créée dans le cadre d'un TP.
+Ce repository contient les scripts SQL pour la base de données du restaurant Tifosi.
 
 ## Contenu
 - `import_tifosi.sql` : Script pour créer la base de données et les tables.
